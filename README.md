@@ -1,16 +1,98 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Mohamed Mostafa</h1>
+<h3 align="center">Unity Game Developer | Community Leader | Instructor</h3>
 
-<!--
-**mohamed20047/mohamed20047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=1ACAD6&size=30&center=true&vCenter=true&lines=Hello%2C+I'm+Mohamed;Unity+Game+Developer;Community+Leader;"></a>
+</p>
 
-Here are some ideas to get you started:
+<!-- Visitors Count -->
+<div align="center">
+  <br/><p align="centre"><b>Profile Views</b></p>  
+  <p align="center">
+    <a href="https://profile-counter.glitch.me/MohamedMostafa/count.svg">
+  <img align="center" src="https://profile-counter.glitch.me/MohamedMostafa/count.svg" />
+      </a>
+  </p>
+  <br/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<!-- About Me Section -->
+## About Me
+
+<p>
+👀 &emsp; I’m interested in game development, community building, and project management.<br/><br/>
+🌱 &emsp; I’m currently studying at **Faculty of Computers and Artificial Intelligence, Cairo University**.<br/><br/>
+❤️ &emsp; Love creating games, teaching, and leading teams.<br/><br/>
+📧 &emsp; Reach me anytime: [mohamed.5.20047@gmail.com](mailto:mohamed.5.20047@gmail.com)<br/><br/>
+💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/mohamedmostafa)<br/><br/>
+</p>
+
+<!-- Languages and Tools -->
+## Languages and Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="django logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+### 🔝 Top Contributed Repo
+<div align="center">
+  <a href="https://github-contributor-stats.vercel.app/api?username=MohamedMostafa&limit=5&theme=nord&combine_all_yearly_contributions=true"></a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=MohamedMostafa&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
+
+<hr/>
+
+<!-- GitHub Stats and Activity -->
+<p align="center">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMostafa&theme=radical&border=199260&background=0D1117">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedMostafa&theme=radical&border=199260&background=0D1117" alt="Mohamed's GitHub streak"/>
+    </a>
+</p>
+  
+<p align="center">
+    <a href="https://github.com/MohamedMostafa">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedMostafa&theme=radical" alt="Mohamed's GitHub Contribution"/>
+    </a>
+</p>
+  
+<a> 
+    <a href="https://denvercoder1-github-readme-stats.vercel.app/api?username=MohamedMostafa&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866"><img alt="Mohamed's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MohamedMostafa&show_icons=true&count_private=true&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/MohamedMostafa"><img alt="Mohamed's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MohamedMostafa&langs_count=8&layout=compact&theme=react&border_color=199260&bg_color=0D1117&title_color=B6E7D8&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <br/>
+</a>
+
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/MohamedMostafa/MohamedMostafa/output/snake.svg" alt="Snake animation" />
+
+## Connect with Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/mohamedmostafa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/MohamedMostafa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="40" alt="github logo" />
+  </a>
+  <a href="https://youtube.com/@MohamedMostafa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="youtube logo" />
+  </a>
+</div>
