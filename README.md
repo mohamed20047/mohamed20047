@@ -25,8 +25,7 @@
 👀 &emsp; I’m interested in game development, community building, and project management.<br/><br/>
 🌱 &emsp; I’m currently studying at **Faculty of Computers and Artificial Intelligence, Cairo University**.<br/><br/>
 ❤️ &emsp; Love creating games, teaching, and leading teams.<br/><br/>
-📧 &emsp; Reach me anytime: [mohamed.5.20047@gmail.com](mailto:mohamed.5.20047@gmail.com) <br/><br/>
-💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/mohamed20047)<br/><br/>
+
 
 <!-- Languages and Tools -->
 ## Languages and Tools
@@ -52,6 +51,8 @@
 </div>
 
 
+<hr/>
+
 <!-- GitHub Stats and Activity -->
 <p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=mohamed20047&theme=radical&border=199260&background=0D1117">
@@ -72,6 +73,8 @@
 </a>
 
 
+<hr/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed20047/mohamed20047/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed20047/mohamed20047/output/pacman-contribution-graph.svg">
@@ -80,15 +83,20 @@
 
 
 ## Connect with Me
-
-<div align="left">
-  <a href="https://linkedin.com/in/mohamed20047" target="_blank">
+<!-- pac man -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-game-dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo" />
   </a>
   <a href="https://github.com/mohamed20047" target="_blank">
     <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="40" alt="github logo" />
   </a>
-  <a href="https://youtube.com/@mohamed20047" target="_blank">
+  <a href="https://www.youtube.com/@KMDeveloper" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="youtube logo" />
   </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="40" alt="Gmail" />
+  </a>
 </div>
+
+
