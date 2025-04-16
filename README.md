@@ -22,13 +22,11 @@
 <!-- About Me Section -->
 ## About Me
 
-<p>
 👀 &emsp; I’m interested in game development, community building, and project management.<br/><br/>
 🌱 &emsp; I’m currently studying at **Faculty of Computers and Artificial Intelligence, Cairo University**.<br/><br/>
 ❤️ &emsp; Love creating games, teaching, and leading teams.<br/><br/>
-📧 &emsp; Reach me anytime: [mohamed.5.20047@gmail.com](mailto:mohamed.5.20047@gmail.com)<br/><br/>
+📧 &emsp; Reach me anytime: [mohamed.5.20047@gmail.com](mailto:mohamed.5.20047@gmail.com) <br/><br/>
 💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/mohamed20047)<br/><br/>
-</p>
 
 <!-- Languages and Tools -->
 ## Languages and Tools
@@ -48,18 +46,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="django logo" />
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="40" alt="django logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <a href="https://github-contributor-stats.vercel.app/api?username=mohamed20047&limit=5&theme=nord&combine_all_yearly_contributions=true"></a>
-  <img src="https://github-contributor-stats.vercel.app/api?username=mohamed20047&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
-
-<hr/>
 
 <!-- GitHub Stats and Activity -->
 <p align="center">
@@ -80,8 +71,13 @@
     <br/>
 </a>
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/mohamed20047/mohamed20047/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed20047/mohamed20047/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed20047/mohamed20047/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed20047/mohamed20047/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ## Connect with Me
 
@@ -90,7 +86,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo" />
   </a>
   <a href="https://github.com/mohamed20047" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="40" alt="github logo" />
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="40" alt="github logo" />
   </a>
   <a href="https://youtube.com/@mohamed20047" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" alt="youtube logo" />
